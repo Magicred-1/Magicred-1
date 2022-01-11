@@ -8,4 +8,4 @@
 
 - ❤️ I love to learn new things.
 - 👯 Always willing to help the others.
-- ⚡ Fun fact: I really like Floppas <img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/floppa_icon.png" width="10" height="10" /> & Soggas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/sogga_icon.png" width="10" height="10" />.
+- ⚡ Fun fact: I really like Floppas <img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/floppa_icon.png" width="20" height="20" /> & Soggas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/sogga_icon.png" width="20" height="20" />.
