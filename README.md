@@ -7,4 +7,4 @@
 
 - ❤️ I love to learn new things.
 - 👯 Always willing to help the others.
-- ⚡ Fun fact: I really like Floppa & Sogga.
+- ⚡ Fun fact: I really like Floppas & Soggas.
