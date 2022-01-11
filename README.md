@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science Student and IT passioned
 
-## Currently working for 
+## Currently working for : **RingCentral**
 
 - ❤️ I love to learn new things.
 - 👯 Always willing to help the others.
