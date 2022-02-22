@@ -1,5 +1,6 @@
 [linkedin]: https://linkedin.com/in/djason-gadiou
 ![pv](https://pageview.vercel.app/?github_user=Magicred-1)
+![GitHub last commit](https://img.shields.io/github/last-commit/Magicred-1)
 # Hello World, My name is *Djason* - aka *Magicred-1* 👋 
 
 ### I'm a Computer Science Student and IT passioned
