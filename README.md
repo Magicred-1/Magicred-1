@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/mail_icon.jpg" height="20"> <djasongadiou@gmail.com> 
 <hr>
 
-### I'm a Computer Science Student based in Paris and IT passioned
+### I'm a Software Engineer Apprentice based in Paris and IT passioned
 
 ### Find me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" /> [LinkedIn][linkedin].
 
