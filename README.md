@@ -8,7 +8,7 @@
 
 ### Find me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" /> [LinkedIn][linkedin].
 
-### Currently working for <img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/ringcentral_logo.png" width="25" height="25" /> ***TBA***
+### Currently working for ***TBA***
 
 > ❤️ I love to learn new things.
  <br>👯 Always willing to help the others.<br>
