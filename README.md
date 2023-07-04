@@ -19,7 +19,6 @@ If you have any questions or need assistance, feel free to reach out to me.
 ## 🌟 GitHub Stats
 
 ![Profile Views](https://pageview.vercel.app/?github_user=Magicred-1)
-![GitHub last commit](https://img.shields.io/github/last-commit/Magicred-1/)
 
 ## 🛠️ Tech Stack
 
