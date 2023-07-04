@@ -1,15 +1,58 @@
-[linkedin]: https://linkedin.com/in/djason-gadiou
-![pv](https://pageview.vercel.app/?github_user=Magicred-1) ![GitHub last commit](https://img.shields.io/github/last-commit/Magicred-1/Portfolio_BTS)
-# Hi, I'm <img height="50" src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/djason_gadiou_logo.png">
-<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/mail_icon.jpg" height="20"> <djasongadiou@gmail.com> 
-<hr>
+# Hi there! 👋
 
-### I'm a Software Engineer Apprentice based in Paris and IT passioned
+Welcome to my GitHub profile! I'm ***Djason Gadiou***, a passionate Software Engineer based in Paris. 
+I'm currently working as a Software Engineer Apprentice at RingCentral. 
+I love exploring new technologies and expanding my knowledge in the field of IT. 
+If you have any questions or need assistance, feel free to reach out to me.
 
-### Find me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" /> [LinkedIn][linkedin].
+## 📫 How to reach me
+- 📧 Email: [djasongadiou@gmail.com](mailto:djasongadiou@gmail.com)
+- 💼 LinkedIn: [Djason-Gadiou](https://www.linkedin.com/in/djason-gadiou/)
 
-### Currently working for ***TBA***
+## 🔭 About Me
 
-> ❤️ I love to learn new things.
- <br>👯 Always willing to help the others.<br>
- ⚡ Fun fact: I really like Floppas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/floppa_icon.png" width="25" height="25" /> & Soggas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/sogga_icon.png" width="25" height="25" />.
+- 💻 I'm an enthusiastic software engineer with a strong passion for coding and problem-solving.
+- 🌱 I believe in continuous learning and constantly strive to improve my skills.
+- 👯 I enjoy collaborating with others and believe in the power of teamwork.
+- ⚡ Fun fact: I have a soft spot for Floppas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/floppa_icon.png" width="20" height="20" /> and Soggas<img src="https://raw.githubusercontent.com/Magicred-1/Magicred-1/main/asset/img/sogga_icon.png" width="20" height="20" />.
+
+## 🌟 GitHub Stats
+
+![Profile Views](https://pageview.vercel.app/?github_user=Magicred-1)
+![GitHub last commit](https://img.shields.io/github/last-commit/Magicred-1/)
+
+## 🛠️ Tech Stack
+
+Here are some of the technologies and tools I'm familiar with:
+
+- Programming Languages: 
+  - TS
+  - JS
+  - SQL
+  - CSS
+  - HTML
+  - SOLIDITY
+  - RUBY
+
+- Frameworks & Libraries:
+  - NextJS
+  - ReactJS
+  - Ruby On Rails
+
+- Databases & ORM:
+  - MangoDB
+  - Supabase
+  - MariaDB
+  - PostgreQL
+
+## 📚 Projects
+
+Feel free to explore my repositories to find more projects!
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaborations. Connect with me on LinkedIn and let's stay in touch!
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/djason-gadiou/)
+
+Thank you for visiting my profile! Have a great day! 😊
