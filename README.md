@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm ***Djason Gadiou***, a passionate Software Engineer based in Paris. 
-I'm currently working as a Software Engineer Apprentice at RingCentral. 
+I'm currently working as a Freelance WEB3 / Full Stack Developer. 
 I love exploring new technologies and expanding my knowledge in the field of IT. 
 If you have any questions or need assistance, feel free to reach out to me.
 
